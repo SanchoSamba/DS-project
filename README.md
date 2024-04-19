@@ -9,7 +9,7 @@ The motivation for optimizing energy usage lies in the need
 for sustainability, efficiency, and reliability in the energy infrastructure to mitigate climate change and ensure a brighter, greener future. The focus of this project relates to a power grid, which connects electric vehicle charging stations to three different power sources – solar panels, batteries and the public electric grid. Due to limitations of the grid and variable nature of solar power, a system was put in place by Siemens that governs the behavior of the grid and distributes power according to momentary supply and demand. 
 
 
-![Grid diagram](Figures/grid_diagram.png)
+![Grid diagram](interim_report/Figures/grid_diagram.png)
 
 
 However, the almost black box nature of the decision system makes it difficult to further improve and optimize its decision making process. Our goal for this project therefore, is to explain the decision-making process that governs the behavior of the grid. We approach the task by first trying to recover the governing rules from the dataset provided by Siemens. We establish baseline model with which we try to recover the provided ground truths. Next, we look to further expand upon those rules, utilizing neuro-symbolic approaches. Finally, we look for ways to optimize the behavior of the grid via threshold optimization.
