@@ -18,7 +18,7 @@ However, the almost black box nature of the decision system makes it difficult t
 
 The repository consists of several folders::
 
-* the source folder (`/src`) contains all of the relevan source code used
+* the source folder (`/src`) contains all of the relevant source code used
 * the journal folder (`/journal`) contains loggs of individual contributions
 * the interim report folder (`/interim_report`) contains the final version of the interim report. It also includes an image folder (`Figures`), that contains all of the figures, used in the report. Most of the figures were generated with the provided code, some were further modified.
 * the final report folder (`/final_report`)
