@@ -49,7 +49,7 @@
 ## May 2024 (5.5)
 * 38. (1.5h): Going through some of the examples on LTN, looking for an example of rule extraction with LTN
 * 39. (4h): Testing different examples of both LTNTorch and LTN. Figured out the issue for LTNTorch was with the version of dependencies and got the example of binary and multiclass classification to work.
-* 40. (): 
+* 40. (2h): Got the multiclass example to work on our dataset 
 * 41. (): 
 * 42. (): 
 * 43. (): 
