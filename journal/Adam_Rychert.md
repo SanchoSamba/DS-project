@@ -1,4 +1,4 @@
-# Adam Rychert Data Science Project Competition journal (Curent total 81.5)
+# Adam Rychert Data Science Project Competition journal (Curent total 83.5)
 
 ## February 2024 (4h)
 
@@ -46,7 +46,7 @@
 * 36. (2h): Meeting with mentor, comming up with a plan of LTN implementation, looking for some examples that can be applied
 * 37. (2h): Going through tutorials on logictensornetworks github
 
-## May 2024 (20)
+## May 2024 (22)
 * 38. (1.5h): Going through some of the examples on LTN, looking for an example of rule extraction with LTN
 * 39. (4h): Testing different examples of both LTNTorch and LTN. Figured out the issue for LTNTorch was with the version of dependencies and got the example of binary and multiclass classification to work.
 * 40. (2h): Got the multiclass example to work on our dataset 
@@ -55,9 +55,14 @@
 * 43. (3.5h): Trying to implement the idea for rules validation/treshold optimization on a dataset where we try to predict peak shaving. 
 * 44. (2h): Got the rule satisfaction to work for a single rule - is that the right direction? + Testing how well the LTN works with a smaller dataset
 * 45. (4.5h): Planinng and implementing my new idea of how to optimze the treshold with LTNTorch
-* 46. ():
-* 47. (): 
+* 46. (1h): Realised I forgot about finalizing the testing of rules satisfaction, decided to spent some more time on it - prepared some more lgoic rules as an example
+* 47. (1h): Mentor meeting, planning the next steps
 * 48. (): 
+* 49. (): 
+* 50. (): 
+* 51. (): 
+* 52. (): 
+* 53. (): 
 
 
 ## Total: [total sum of hours]
