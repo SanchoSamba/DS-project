@@ -1,4 +1,4 @@
-# Adam Rychert Data Science Project Competition journal (Curent total 83.5)
+# Adam Rychert Data Science Project Competition journal (Curent total 100)
 
 ## February 2024 (4h)
 
@@ -46,7 +46,7 @@
 * 36. (2h): Meeting with mentor, comming up with a plan of LTN implementation, looking for some examples that can be applied
 * 37. (2h): Going through tutorials on logictensornetworks github
 
-## May 2024 (22)
+## May 2024 (38.5)
 * 38. (1.5h): Going through some of the examples on LTN, looking for an example of rule extraction with LTN
 * 39. (4h): Testing different examples of both LTNTorch and LTN. Figured out the issue for LTNTorch was with the version of dependencies and got the example of binary and multiclass classification to work.
 * 40. (2h): Got the multiclass example to work on our dataset 
@@ -57,12 +57,18 @@
 * 45. (4.5h): Planinng and implementing my new idea of how to optimze the treshold with LTNTorch
 * 46. (1h): Realised I forgot about finalizing the testing of rules satisfaction, decided to spent some more time on it - prepared some more lgoic rules as an example
 * 47. (1h): Mentor meeting, planning the next steps
-* 48. (): 
-* 49. (): 
-* 50. (): 
-* 51. (): 
-* 52. (): 
-* 53. (): 
+* 48. (4h): Catching up what work of my teammates, working on model for treshold search/optimization (got quite stuck with this problem: tried analysing the regression example of LTNTorch)
+* 49. (2h): Tried to get the predicates for sat. calculation to work 
+* 50. (2h): Looking for some research, examples of using knowledge with LTN 
+* 51. (1h): Meeting with teammates 
+* 52. (4h): Watching videos about LTN, preparing short topic distribution for the meeting with Seemens, cleaning code and preparing it for presentation  
+* 53. (2.5h): Continuation of tries to get the treshold prediction with LTN to work, no success -- somehow there has to be a way to train a tresholds based on their satisfaction levels, for now I figured out it is not possible with just constants 
+* 54. (1h): Watching yt video Learning with Logical Constraints 
+* 55. (): 
+* 56. (): 
+* 57. (): 
+* 58. (): 
+* 59. (): 
 
 
 ## Total: [total sum of hours]
