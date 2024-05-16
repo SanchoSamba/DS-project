@@ -1,4 +1,4 @@
-# Adam Rychert Data Science Project Competition journal (Curent total 100)
+# Adam Rychert Data Science Project Competition journal (Curent total 114)
 
 ## February 2024 (4h)
 
@@ -46,7 +46,7 @@
 * 36. (2h): Meeting with mentor, comming up with a plan of LTN implementation, looking for some examples that can be applied
 * 37. (2h): Going through tutorials on logictensornetworks github
 
-## May 2024 (38.5)
+## May 2024 (53.5)
 * 38. (1.5h): Going through some of the examples on LTN, looking for an example of rule extraction with LTN
 * 39. (4h): Testing different examples of both LTNTorch and LTN. Figured out the issue for LTNTorch was with the version of dependencies and got the example of binary and multiclass classification to work.
 * 40. (2h): Got the multiclass example to work on our dataset 
@@ -64,11 +64,16 @@
 * 52. (4h): Watching videos about LTN, preparing short topic distribution for the meeting with Seemens, cleaning code and preparing it for presentation  
 * 53. (2.5h): Continuation of tries to get the treshold prediction with LTN to work, no success -- somehow there has to be a way to train a tresholds based on their satisfaction levels, for now I figured out it is not possible with just constants 
 * 54. (1h): Watching yt video Learning with Logical Constraints 
-* 55. (): 
-* 56. (): 
-* 57. (): 
-* 58. (): 
-* 59. (): 
+* 55. (4h): Reading through all of the resources on LTNTorch github again - actually turned out to be a very good idea and now I understanded much more than when I read it initially 
+* 56. (2h): Meeting with teammates before the Semens meeting, discusion about curent project status
+* 57. (2.5h): Final preparation for the meeting with Semens, call with the team before it, meeting with Semens
+* 58. (3.5h): Working on treshold optimization - started from scratch, might be going in the right direction now 
+* 59. (2h): Gettin a treshold using LTN - got some result, will switch to the main model 
+* 60. ():
+* 61. ():
+* 62. ():
+* 63. ():
+* 64. (): 
 
 
 ## Total: [total sum of hours]
