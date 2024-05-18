@@ -1,4 +1,4 @@
-# Adam Rychert Data Science Project Competition journal (Curent total 114)
+# Adam Rychert Data Science Project Competition journal (Curent total 121.5)
 
 ## February 2024 (4h)
 
@@ -46,7 +46,7 @@
 * 36. (2h): Meeting with mentor, comming up with a plan of LTN implementation, looking for some examples that can be applied
 * 37. (2h): Going through tutorials on logictensornetworks github
 
-## May 2024 (53.5)
+## May 2024 (60)
 * 38. (1.5h): Going through some of the examples on LTN, looking for an example of rule extraction with LTN
 * 39. (4h): Testing different examples of both LTNTorch and LTN. Figured out the issue for LTNTorch was with the version of dependencies and got the example of binary and multiclass classification to work.
 * 40. (2h): Got the multiclass example to work on our dataset 
@@ -68,9 +68,9 @@
 * 56. (2h): Meeting with teammates before the Semens meeting, discusion about curent project status
 * 57. (2.5h): Final preparation for the meeting with Semens, call with the team before it, meeting with Semens
 * 58. (3.5h): Working on treshold optimization - started from scratch, might be going in the right direction now 
-* 59. (2h): Gettin a treshold using LTN - got some result, will switch to the main model 
-* 60. ():
-* 61. ():
+* 59. (4.5h): Gettin a treshold using LTN - got some result ( maybe I will switch to the main model), planning next steps for this task, figuring out if my result could be corect, tried to werify some theory about the base model, started doing changes to my treshold optimization
+* 60. (3h): Menage to retrive lower treshold for the model, still not sure if that validates my approach or is happening by chance
+* 61. (2h): Call with teammates about my results, researching and testing my method a bit more
 * 62. ():
 * 63. ():
 * 64. (): 
