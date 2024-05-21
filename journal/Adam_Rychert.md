@@ -1,4 +1,4 @@
-# Adam Rychert Data Science Project Competition journal (Curent total 100)
+# Adam Rychert Data Science Project Competition journal (Curent total 130)
 
 ## February 2024 (4h)
 
@@ -46,7 +46,7 @@
 * 36. (2h): Meeting with mentor, comming up with a plan of LTN implementation, looking for some examples that can be applied
 * 37. (2h): Going through tutorials on logictensornetworks github
 
-## May 2024 (38.5)
+## May 2024 (68,5)
 * 38. (1.5h): Going through some of the examples on LTN, looking for an example of rule extraction with LTN
 * 39. (4h): Testing different examples of both LTNTorch and LTN. Figured out the issue for LTNTorch was with the version of dependencies and got the example of binary and multiclass classification to work.
 * 40. (2h): Got the multiclass example to work on our dataset 
@@ -64,11 +64,20 @@
 * 52. (4h): Watching videos about LTN, preparing short topic distribution for the meeting with Seemens, cleaning code and preparing it for presentation  
 * 53. (2.5h): Continuation of tries to get the treshold prediction with LTN to work, no success -- somehow there has to be a way to train a tresholds based on their satisfaction levels, for now I figured out it is not possible with just constants 
 * 54. (1h): Watching yt video Learning with Logical Constraints 
-* 55. (): 
-* 56. (): 
-* 57. (): 
-* 58. (): 
-* 59. (): 
+* 55. (4h): Reading through all of the resources on LTNTorch github again - actually turned out to be a very good idea and now I understanded much more than when I read it initially 
+* 56. (2h): Meeting with teammates before the Semens meeting, discusion about curent project status
+* 57. (2.5h): Final preparation for the meeting with Semens, call with the team before it, meeting with Semens
+* 58. (3.5h): Working on treshold optimization - started from scratch, might be going in the right direction now 
+* 59. (4.5h): Gettin a treshold using LTN - got some result ( maybe I will switch to the main model), planning next steps for this task, figuring out if my result could be corect, tried to werify some theory about the base model, started doing changes to my treshold optimization
+* 60. (3h): Menage to retrive lower treshold for the model, still not sure if that validates my approach or is happening by chance
+* 61. (2h): Call with teammates about my results, researching and testing my method a bit more
+* 62. (4h): Testing if there is really a need for two models, maybe just the regression one is enough, figured out that the predicate rule that is being used for the treshold is super important. Probably the initialy received 15% treshold was due to chance. With a rule that generates smaller loss value we get a value that seems to be close to 40% treshold (which would more agree with my data analysis)
+* 63. (3h):Verification of the treshold prediction for the base model, trying new predicates to find a treshold
+* 64. (3h): Meeting with teammate to verify the results, testing some more tresholds. Fixing some problems with the used predicate, menage to retrive both thresholds at the same time
+* 65. (): 
+* 66. (): 
+* 67. (): 
+* 68. (): 
 
 
 ## Total: [total sum of hours]
