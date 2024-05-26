@@ -1,4 +1,4 @@
-# Adam Rychert Data Science Project Competition journal (Curent total 152.5)
+# Adam Rychert Data Science Project Competition journal (Curent total 154)
 
 ## February 2024 (4h)
 
@@ -46,7 +46,7 @@
 * 36. (2h): Meeting with mentor, comming up with a plan of LTN implementation, looking for some examples that can be applied
 * 37. (2h): Going through tutorials on logictensornetworks github
 
-## May 2024 (91)
+## May 2024 (92.5)
 * 38. (1.5h): Going through some of the examples on LTN, looking for an example of rule extraction with LTN
 * 39. (4h): Testing different examples of both LTNTorch and LTN. Figured out the issue for LTNTorch was with the version of dependencies and got the example of binary and multiclass classification to work.
 * 40. (2h): Got the multiclass example to work on our dataset 
@@ -81,8 +81,8 @@
 * 69. (3h): Working on the final report  
 * 70. (2.5h): Fixing a bug in my predicate implementation 
 * 71. (1.5h): Working on report, mentor meeting
-* 72. (): 
+* 72. (1.5h): Finalizing my part of the final LTN file that will go to the main branch 
 * 73. (): 
 
 
-## Total: [total sum of hours]
+## Total: [154]
