@@ -46,7 +46,7 @@ Explanation of Deep Neural Networks
 
 
 
-## May 2020 (73h)
+## May 2020 (77h)
 - (2h): Reviewing introductory materials on deep neural networks (DNNs), focusing on basic architectures and training methodologies.
 - (4h): Experimenting with different DNN architectures; identified a suitable model for binary classification; resolved dependency issues and successfully trained the model.
 - (2h): Applied the one-parameter model to the dataset and achieved initial results.
@@ -78,10 +78,11 @@ Explanation of Deep Neural Networks
 - (4h): Code cleaning. GitHub organization and updating the ReadMe file.
 - (1h): Journal preparation
 - (1h): Team meeting to discuss corrections to the final report
+- (2h): Reproducibility, solving environment conflicts
 - (2h): Preparing final presentation
 
 ## June 2020 ([total hours for June])
 
 ...
 
-## Total: 150h
+## Total: 154h
