@@ -22,3 +22,5 @@ environment can be activated by running:
 `
 conda activate Project_LTN
 `
+
+Code related to work, that did not end up in the final report, can be found in the development branch of the repository.
