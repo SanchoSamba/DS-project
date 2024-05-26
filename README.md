@@ -5,14 +5,11 @@ This is the repository contains all the code, figures and reports, related to th
 
 ## About the Project ##
 
-The motivation for optimizing energy usage lies in the need
-for sustainability, efficiency, and reliability in the energy infrastructure to mitigate climate change and ensure a brighter, greener future. The focus of this project relates to a power grid, which connects electric vehicle charging stations to three different power sources – solar panels, batteries and the public electric grid. Due to limitations of the grid and variable nature of solar power, a system was put in place by Siemens that governs the behavior of the grid and distributes power according to momentary supply and demand. 
+As the complexity of systems deployed in real-world applications continues to grow, ensuring explainability of their decision-making processes becomes increasingly important. This overview dives into explanation of the decision-making processes of an electric car charging system managed by Siemens. Optimization of energy usage is crucial in making the grid more sustainable and efficient. We start with an initial dataset exploration, revealing discrepancies between the dataset and provided information about the system. We establish a baseline model on a subset of data, successfuly recovering ground truth rules, governing the grids behavior. Employing two contrasting approaches in the form of deep neural networks and logic tensor networks, we show the importance of fastcharger station power and provide a revised set of rules and thresholds, governing the system. 
 
 
 ![Grid diagram](interim_report/Figures/grid_diagram.png)
 
-
-However, the almost black box nature of the decision system makes it difficult to further improve and optimize its decision making process. Our goal for this project therefore, is to explain the decision-making process that governs the behavior of the grid. We approach the task by first trying to recover the governing rules from the dataset provided by Siemens. We establish baseline model with which we try to recover the provided ground truths. Next, we look to further expand upon those rules, utilizing neuro-symbolic approaches. Finally, we look for ways to optimize the behavior of the grid via threshold optimization.
 
 ## Repository Structure ##
 
